@@ -77,17 +77,7 @@ This project explores the use of the **Alternating Direction Method of Multiplie
 
 ---
 
-## 📁 File Structure
 
-admm-project/
-├── graphical_lasso_admm.py
-├── super_resolution_admm.py
-├── super_resolution_admm.m
-├── test_images/
-│ └── test.png
-├── plots/
-├── README.md
-└── mfc_report.pdf
 
 
 ---
